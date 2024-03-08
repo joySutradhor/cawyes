@@ -960,7 +960,7 @@ nav.navbar.bootsnav {
     padding: 30px 12px !important;
   }
 }
-
+/*================================== custom --------------------------------------------------------------- */
 @media (min-width: 1024px) {
   nav.navbar.bootsnav ul.nav .dropdown-menu .dropdown-menu {
     margin-top: -2px;
@@ -1637,6 +1637,8 @@ nav.navbar.bootsnav {
   }
 }
 
+/* ------------------custom ----------------------------- */
+
 @media (max-width: 1023px) {
 
   .attr-nav {
@@ -2292,6 +2294,7 @@ nav.navbar.bootsnav {
   }
 }
 
+/* ----------------custom ------------------- */
 @media (min-width: 480px) and (max-width: 640px) {
   nav.bootsnav.navbar-full ul.nav {
     padding-top: 30px;
@@ -2301,7 +2304,7 @@ nav.navbar.bootsnav {
 
 .navbar-brand>img {
   display: initial;
-  height: auto;
+  height: 60px !important;
 }
 
 .attr-nav > ul > li {
@@ -2361,6 +2364,7 @@ ul.cart-list > li.total > .btn {
   padding: 10px 25px !important;
 }
 
+/* ---------------custom ---------------------------- */
 @media (min-width: 1024px) {
   nav.navbar ul.nav > li > a {
     padding: 30px 15px;
@@ -2698,7 +2702,7 @@ nav.navbar-inverse.navbar-full .navbar-toggle {
     border-top: solid 1px #222;
   }
 }
-
+/* -------------csutom ----------- */
 @media (min-width: 1024px) {
   .bootsnav.navbar-full.no-background .navbar-toggle {
     color: #fff;

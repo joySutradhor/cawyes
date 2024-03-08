@@ -250,6 +250,7 @@ input {
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
+  
 
 }
 
@@ -295,7 +296,7 @@ input {
   content: "";
   height: 100%;
   left: 0;
-  opacity: 0.5;
+  opacity: 0.25;
   position: absolute;
   top: 0;
   width: 100%;
@@ -766,8 +767,8 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
      # Bradcrumb 
 =================================================================== */
 .breadcrumb-area {
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 270px;
+  padding-bottom:420px;
 }
 
 .breadcrumb-area .breadcrumb {
